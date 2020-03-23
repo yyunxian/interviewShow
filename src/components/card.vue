@@ -29,22 +29,22 @@ export default {
 
 <style lang="less" scoped >
 .card {
-  width: 250px;
-  height: 120px;
+  width: 300px;
+  height: 150px;
   border-radius: 20px;
   padding: 15px 20px;
-  box-sizing: border-box;
   margin-right: 10px;
+  box-sizing: border-box;
   .type {
     font-size: 10px;
     color: #abaaac;
   }
   .cardNum {
-    padding-bottom: 15px;
+    padding-bottom: 30px;
   }
   .money {
     color: #fff;
-    padding-bottom: 15px;
+    padding-bottom: 25px;
     padding-top: 5px;
   }
   .logo {
